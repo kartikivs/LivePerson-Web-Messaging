@@ -2,7 +2,7 @@
 $(document).ready(async function () {
 
   let pageTitle = 'Shop Online';
-  let cartTotal = 1099;
+  let cartTotal = 777;
   appendData();
 
 
