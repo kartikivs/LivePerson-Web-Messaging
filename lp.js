@@ -12,7 +12,7 @@ function identityFn(callback) {
 
 lpTag.sdes.push({
     "type": "cart",
-    "total": 777,
+    "total": 7777,
     "currency": "USD",
     "numItems": "1",
     "products": [{
